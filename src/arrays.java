@@ -7,9 +7,9 @@ public class arrays {
         System.out.println(arr[4]);
 
 
-        int [] gems;     //declaration
-        gems=new int[3];      //and then memory allocation
-        gems[0]=9;
+        int [] gem;     //declaration
+        gem=new int[3];      //and then memory allocation
+        gem[0]=9;
 
         int [] marks={20,90,79};        //declaration+memory allocation+initialization
         System.out.println(marks[1]);
